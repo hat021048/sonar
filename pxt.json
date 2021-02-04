@@ -1,5 +1,5 @@
 {
-    "name": "Sonar",
+    "name": "Sonar-V2",
     "description": "",
     "dependencies": {
         "core": "*",
