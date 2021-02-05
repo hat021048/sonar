@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "robotbit": "github:leo266/la_motor_rgb#54126bb00678aaac4e986ab11933cc96d2872d5a"
     },
     "files": [
         "main.blocks",
