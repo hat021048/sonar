@@ -1,11 +1,12 @@
 {
-    "name": "Sonar-V2",
+    "name": "SonarBsis",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "robotbit": "github:leo266/la_motor_rgb#54126bb00678aaac4e986ab11933cc96d2872d5a"
+        "robotbit": "github:leo266/la_motor_rgb#54126bb00678aaac4e986ab11933cc96d2872d5a",
+        "MakerBit-LCD1602": "github:1010technologies/pxt-makerbit-lcd1602#v1.6.21"
     },
     "files": [
         "main.blocks",
@@ -15,6 +16,10 @@
     "testFiles": [
         "test.ts"
     ],
+    "targetVersions": {
+        "target": "4.0.16",
+        "targetId": "microbit"
+    },
     "supportedTargets": [
         "microbit"
     ],
